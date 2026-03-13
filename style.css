@@ -1,13 +1,13 @@
 :root{
 
---primary-color:#4f46e5;
---secondary-color:#9333ea;
---background-color:#f4f6f9;
---card-bg:#ffffff;
---text-color:#333;
---heading-color:#4f46e5;
---footer-bg:#111;
---footer-text:#aaa;
+--primary-color:#000000;
+--secondary-color:#1a1a1a;
+--background-color:#0f0f0f;
+--card-bg:#1a1a1a;
+--text-color:#e5e5e5;
+--heading-color:#ffffff;
+--footer-bg:#000000;
+--footer-text:#aaaaaa;
 
 }
 
